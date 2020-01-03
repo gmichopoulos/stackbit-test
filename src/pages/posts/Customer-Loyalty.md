@@ -1,6 +1,6 @@
 ---
 title: Customer Loyalty Programs That Stick
-subtitle: A story about customer loyalty
+subtitle: A story about Owen
 date: '2019-04-23'
 thumb_img_path: images/3_thumb.jpg
 img_path: images/3.jpg
